@@ -26,7 +26,7 @@ console.log(name.toUpperCase())
 console.log(name.toLowerCase())
 console.log(name.slice(2, 4))
 console.log(name.slice(1))
-console.log(name.replace('D', 'w'))
+console.log(name.replace('D', 'a'))
 
 let animal = '      tiger     '
 console.log(animal.trim())
