@@ -1,4 +1,4 @@
-let namee="deven"
+let namee="dev"
 console.log(name)
 console.log(name.length)
 console.log(name[0])
